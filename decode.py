@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# 
+# http://www.securitynotes.ro/2014/12/decrypt-lost-password-saved-in-remmina.html
 
 from Crypto.Cipher import DES3
 import base64
